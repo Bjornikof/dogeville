@@ -1,0 +1,3 @@
+[submodule "dogeville-backend"]
+	path = dogeville-backend
+	url = https://github.com/Bjornikof/dogeville-backend.git
