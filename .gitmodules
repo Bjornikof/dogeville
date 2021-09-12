@@ -1,3 +1,6 @@
 [submodule "dogeville-backend"]
 	path = dogeville-backend
 	url = https://github.com/Bjornikof/dogeville-backend.git
+[submodule "dogeville-frontend"]
+	path = dogeville-frontend
+	url = https://github.com/Bjornikof/dogeville-frontend.git
